@@ -1,11 +1,12 @@
 // Let variables can be modified. 
 
-let x, y       // Statement 1 
+let x, y      // Statement 1 
 x = 5          // Statement 2
 y = 6          // Statement 3
 let z = x + y  // Statement 4
 
-const x = 5      // Global scope
+//const x = 5      // Global scope
+
 
 {
   const x = 6    // Block scope, not accesible from outside 

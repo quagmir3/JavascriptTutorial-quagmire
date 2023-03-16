@@ -1,3 +1,3 @@
-const greetingMessage = 'Hello world'
+const greetingMessage = 'Hello world';
 // include a break point
-console.log(greetingMessage)
+console.log(greetingMessage);

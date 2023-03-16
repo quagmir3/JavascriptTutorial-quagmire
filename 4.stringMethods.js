@@ -1,4 +1,4 @@
-
+/*
 const str1 = 'My dog is "Haru"'
 const str2 = "My dog is 'Haru'"
 const str3 = "It's my dog!"
@@ -22,3 +22,7 @@ const lastName = 'Doe'
 console.log('Welcome ' + firstName + ', ' + lastName + '!')
 // Using string interpolation (preferred)
 console.log(`Welcome ${firstName}, ${lastName}!`) 
+*/
+const prueba = 'probando';
+console.log(prueba);
+console.log(prueba.lastIndexOf('probando'));
